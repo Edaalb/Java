@@ -2,7 +2,7 @@ package bootcamp;
 
 import java.util.Scanner;
 
-public class Day02_Scanner {
+public class Day02_Scanner1 {
     public static void main(String[] args) {
 
         // Take the user's name and print it with uppercase
