@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q_3_MergeSecondWay {
+public class Q_03_MergeSecondWay {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Please enter 2 words");

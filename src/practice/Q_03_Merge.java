@@ -1,4 +1,4 @@
-public class Q_3_Merge {
+public class Q_03_Merge {
 
     // Question 3
     //Merge them

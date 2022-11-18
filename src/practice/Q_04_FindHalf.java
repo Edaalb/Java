@@ -1,4 +1,4 @@
-public class Q_4_FindHalf {
+public class Q_04_FindHalf {
     // Question 4:
     //Print half twice
     //Write a program that will print out first half of the word twice.

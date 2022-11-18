@@ -1,4 +1,4 @@
-public class Q_5_LongestWord {
+public class Q_05_LongestWord {
     //Question 5:
     //Write a program that will print out the longest word.
     //Note: Assume the length of the two given Strings will be different

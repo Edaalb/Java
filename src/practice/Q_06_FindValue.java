@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q_6_FindValue {
+public class Q_06_FindValue {
     //Question 6:
     //Given a String **txt** print the value without the last letter
     //Ex:
