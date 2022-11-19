@@ -1,3 +1,5 @@
+package practice;
+
 public class Q_03_Merge {
 
     // Question 3

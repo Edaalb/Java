@@ -1,3 +1,5 @@
+package practice;
+
 public class Q_08_InfoFind {
     //Question 8:
     //Email 2

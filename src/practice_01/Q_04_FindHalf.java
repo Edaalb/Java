@@ -1,3 +1,5 @@
+package practice;
+
 public class Q_04_FindHalf {
     // Question 4:
     //Print half twice

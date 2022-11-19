@@ -1,3 +1,5 @@
+package practice;
+
 public class Q_02_Blackjack {
 
     public interface Question_02 {
