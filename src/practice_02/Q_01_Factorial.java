@@ -1,8 +1,8 @@
-package Practice_02;
+package practice_02;
 
 import java.util.Scanner;
 
-public class Q_1_Factorial {
+public class Q_01_Factorial {
     //Question 1
     //Factorial
     //In mathematics a **factorial** of a positive integer _n_, denoted by _n_!,

@@ -1,4 +1,4 @@
-package bootcamp;
+package bootcamp.day_02;
 
 import java.util.Scanner;
 

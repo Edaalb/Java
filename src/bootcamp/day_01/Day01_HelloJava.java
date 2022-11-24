@@ -1,4 +1,4 @@
-package bootcamp;
+package bootcamp.day_01;
 
 public class Day01_HelloJava {
     public static void main(String[] args) {

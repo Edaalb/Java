@@ -1,6 +1,6 @@
 package bootcamp.day_17;
 
-public class Day17_ObjectVariables {
+public class Day17_ObjectVariables1 {
     static String hospitalName="New Care Hospital";
     static int patientNumber= 23453;
     static String cheifPsyName;

@@ -1,6 +1,6 @@
 package bootcamp.day_09;
 
-public class Day09_Substring2 {
+public class Day09_SM_substring2 {
     public static void main(String[] args) {
 
         String str= "Java is getting nicer day by day";
@@ -23,12 +23,12 @@ public class Day09_Substring2 {
                 name.substring(1).toLowerCase(); // 1.index ve sonrasini alip kucuk harf yaptik
 
         System.out.println(name); // Elif
-        System.out.println(name.substring(2,4)); // lif
+        System.out.println(name.substring(2,4)); // if
 
         // print only in 3rd index
-        System.out.println(name.substring(3,4)); // e
+        System.out.println(name.substring(3,4)); // f
 
-        System.out.println("answer of the hard question is : " + name.substring(2,2)); // "" prints nothingless
+        //System.out.println("answer of the hard question is : " + name.substring(2,2)); // "" prints nothingless
         // System.out.println(isim.substring(5,2)); // StringIndexOutOfBoundsException
     }
 }

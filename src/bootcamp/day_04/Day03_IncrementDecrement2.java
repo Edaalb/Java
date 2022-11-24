@@ -1,6 +1,6 @@
 package bootcamp.day_04;
 
-public class Day03_IncrementDecrement {
+public class Day03_IncrementDecrement2 {
 
         public static void main(String[] args) {
 

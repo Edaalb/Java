@@ -1,6 +1,6 @@
 package bootcamp.day_14;
 
-public class Day14_Revision {
+public class Day14_Question1 {
     public static void main(String[] args) {
         int a=10;
         int b=20;

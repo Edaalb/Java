@@ -2,7 +2,7 @@ package bootcamp.day_08;
 
 import java.util.Scanner;
 
-public class Day08_Ternary {
+public class Day08_Ternary1 {
     public static void main(String[] args) {
 
         // take a whole number from the user

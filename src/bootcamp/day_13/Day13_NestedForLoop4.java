@@ -1,10 +1,10 @@
 package bootcamp.day_13;
 
-public class Day13_NestedForLoop_CreatingMethod3 {
+public class Day13_NestedForLoop4 {
 
         public static void main(String[] args) {
         /*
-                 nested for loop kullanarak asagidaki sekli hazirlayin
+                 Create the shape below by using nested for loop
          1
          2 4
          3 6 9

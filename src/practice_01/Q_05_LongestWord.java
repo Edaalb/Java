@@ -1,4 +1,4 @@
-package practice;
+package practice_01;
 
 public class Q_05_LongestWord {
     //Question 5:

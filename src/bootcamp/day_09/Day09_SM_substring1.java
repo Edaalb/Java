@@ -1,6 +1,6 @@
 package bootcamp.day_09;
 
-public class Day09_SM_Substring {
+public class Day09_SM_substring1 {
     public static void main(String[] args) {
         String str= "Learn Java, and take the job";
 

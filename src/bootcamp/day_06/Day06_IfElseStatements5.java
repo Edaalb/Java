@@ -1,8 +1,8 @@
-package bootcamp.Day_05;
+package bootcamp.day_06;
 
 import java.util.Scanner;
 
-public class Day05_IfElseStatements5 {
+public class Day06_IfElseStatements5 {
     public static void main(String[] args) {
         /*
            if we don't use {} in if else statements, it accepts only 1 line for both if body and else body

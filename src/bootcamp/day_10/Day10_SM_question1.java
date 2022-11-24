@@ -2,7 +2,7 @@ package bootcamp.day_10;
 
 import java.util.Scanner;
 
-public class Day10_SM_Question {
+public class Day10_SM_question1 {
     /*
        QUESTION :
         get a mail from the user

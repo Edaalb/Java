@@ -1,6 +1,6 @@
 package bootcamp.day_11;
 
-public class Day11_SM_replaceAll {
+public class Day11_SM_replaceAll1 {
     public static void main(String[] args) {
         String str= "J1ava2 is9 n5i8ce";
 

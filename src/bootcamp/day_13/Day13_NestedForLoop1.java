@@ -1,6 +1,6 @@
 package bootcamp.day_13;
 
-public class Day13_NestedForLoop_CreatingMethod1 {
+public class Day13_NestedForLoop1 {
 
     public static void main(String[] args) {
 

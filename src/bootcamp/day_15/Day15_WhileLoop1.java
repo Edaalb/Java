@@ -1,6 +1,6 @@
 package bootcamp.day_15;
 
-public class Day15_WhileLoop {
+public class Day15_WhileLoop1 {
     public static void main(String[] args) {
 
         // Print 2-digit numbers side by side with a space between them.
@@ -10,7 +10,7 @@ public class Day15_WhileLoop {
             System.out.print(i + " ");
         }
         // if we use while loop
-        
+
         System.out.println("");
         int a=10;
         while (a<100){

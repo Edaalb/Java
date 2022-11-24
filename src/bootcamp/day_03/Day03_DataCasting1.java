@@ -1,6 +1,6 @@
 package bootcamp.day_03;
 
-public class Day03_DataCasting {
+public class Day03_DataCasting1 {
     public static void main(String[] args) {
         /*
           some data types never can be cast to each other

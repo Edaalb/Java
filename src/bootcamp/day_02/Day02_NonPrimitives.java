@@ -1,4 +1,4 @@
-package bootcamp;
+package bootcamp.day_02;
 
 public class Day02_NonPrimitives {
     public static void main(String[] args) {

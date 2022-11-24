@@ -1,8 +1,8 @@
-package bootcamp.Day_05;
+package bootcamp.day_06;
 
 import java.util.Scanner;
 
-public class Day05_IfElseStatements2 {
+public class Day06_IfElseStatements2 {
     public static void main(String[] args) {
 
         // Question 1- Get the 3 sided length of a triangle from the user, print “Equilateral triangle”

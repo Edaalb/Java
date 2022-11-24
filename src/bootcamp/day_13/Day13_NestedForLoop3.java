@@ -1,10 +1,10 @@
 package bootcamp.day_13;
 
-public class Day13_NestedForLoop_CreatingMethod2 {
+public class Day13_NestedForLoop3 {
 
         public static void main(String[] args) {
         /*
-        Create the image below by using nested for loop
+        Create the shape below by using nested for loop
          1
          1 2
          1 2 3

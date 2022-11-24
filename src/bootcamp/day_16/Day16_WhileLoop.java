@@ -1,15 +1,16 @@
-package bootcamp;
+package bootcamp.day_16;
 
 public class Day16_WhileLoop {
     public static void main(String[] args) {
 
-        // Ccreate a while loop adding numbers 10,11,12
+        // Create a while loop adding numbers 10,11,12
 
         int number = 10;
         int total = 0;
         while (number <= 12) {
             total += number;
             number++;
+
             System.out.println(total);
         }
         // In while loop control comes first and operation next

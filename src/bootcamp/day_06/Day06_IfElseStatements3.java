@@ -1,8 +1,8 @@
-package bootcamp.Day_05;
+package bootcamp.day_06;
 
 import java.util.Scanner;
 
-public class Day05_IfElseStatements3 {
+public class Day06_IfElseStatements3 {
     public static void main(String[] args) {
 
         // Question 4 - Ask the user to enter a character,

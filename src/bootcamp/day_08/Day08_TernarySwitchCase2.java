@@ -2,7 +2,7 @@ package bootcamp.day_08;
 
 import java.util.Scanner;
 
-public class Day08_SwitchCase2 {
+public class Day08_TernarySwitchCase2 {
     public static void main(String[] args) {
         // J : Java
         // D : Devolepment

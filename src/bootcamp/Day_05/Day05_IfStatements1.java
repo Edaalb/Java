@@ -2,7 +2,7 @@ package bootcamp.Day_05;
 
 import java.util.Scanner;
 
-public class Day05_IfStatements {
+public class Day05_IfStatements1 {
     public static void main(String[] args) {
 
         // take two numbers from the user

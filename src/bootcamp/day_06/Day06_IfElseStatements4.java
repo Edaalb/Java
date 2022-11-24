@@ -2,7 +2,7 @@ package bootcamp.day_06;
 
 import java.util.Scanner;
 
-public class Day05_IfElseStatements4 {
+public class Day06_IfElseStatements4 {
 
     public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package bootcamp.day_12;
 
-public class Day12_ForLoops1 {
+public class Day12_ForLoop1 {
     public static void main(String[] args) {
 
         String str= "Java\n";

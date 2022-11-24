@@ -1,6 +1,6 @@
 package bootcamp.day_03;
 
-public class Day03_Wrapper {
+public class Day03_WrapperClass {
     public static void main(String[] args) {
         int sayi =10;
         String str= "Java is so beautiful";

@@ -1,6 +1,6 @@
 package bootcamp.day_04;
 
-public class Day03_PrePostIncrement {
+public class Day03_PrePostIncrement1 {
     public static void main(String[] args) {
         int a= 10;
         // print the value of "a" variable, then increase the value of "a" by one
