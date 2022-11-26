@@ -1,0 +1,2 @@
+package bootcamp.day30_AccessModifiersEncapsulationsInheritance;public class C01_Encapsulations {
+}
